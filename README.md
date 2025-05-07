@@ -1,7 +1,7 @@
 # Ankur-3010
 
 
-![logo](https://github.com/singhankur3010/Ankur-3010/blob/main/banner.png)
+![logo](https://github.com/singhankur3010/Ankur-3010/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ankur Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
