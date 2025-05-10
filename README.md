@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ajankursingh@gmail.com**
 
-- 🌐 Kindly have a loot at [My Resume](https://drive.google.com/file/d/1ittBSPocHWzOVBdgtPG-uSbLzkIoIt6R/view?usp=sharing)
+- 🌐 Kindly have a look at [My Resume](https://drive.google.com/file/d/1ittBSPocHWzOVBdgtPG-uSbLzkIoIt6R/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
