@@ -11,7 +11,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=singhankur3010)
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)-->
 
-
 - 🌱 I’m an Aspiring ** MERN & MEAN DEVELOPER.**
 
 - 📫 How to reach me **ajankursingh@gmail.com**
